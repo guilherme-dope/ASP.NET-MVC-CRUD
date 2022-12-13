@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Web.View Curso.props" />
+</Project>

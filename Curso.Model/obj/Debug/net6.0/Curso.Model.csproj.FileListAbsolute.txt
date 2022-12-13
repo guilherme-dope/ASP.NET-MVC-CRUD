@@ -1,0 +1,14 @@
+C:\Users\guimo\Desktop\aspnetcurso\Curso.Model\Curso.Model\bin\Debug\net6.0\Curso.Model.deps.json
+C:\Users\guimo\Desktop\aspnetcurso\Curso.Model\Curso.Model\bin\Debug\net6.0\Curso.Model.runtimeconfig.json
+C:\Users\guimo\Desktop\aspnetcurso\Curso.Model\Curso.Model\bin\Debug\net6.0\Curso.Model.dll
+C:\Users\guimo\Desktop\aspnetcurso\Curso.Model\Curso.Model\bin\Debug\net6.0\Curso.Model.pdb
+C:\Users\guimo\Desktop\aspnetcurso\Curso.Model\Curso.Model\obj\Debug\net6.0\Curso.Model.csproj.AssemblyReference.cache
+C:\Users\guimo\Desktop\aspnetcurso\Curso.Model\Curso.Model\obj\Debug\net6.0\Curso.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guimo\Desktop\aspnetcurso\Curso.Model\Curso.Model\obj\Debug\net6.0\Curso.Model.AssemblyInfoInputs.cache
+C:\Users\guimo\Desktop\aspnetcurso\Curso.Model\Curso.Model\obj\Debug\net6.0\Curso.Model.AssemblyInfo.cs
+C:\Users\guimo\Desktop\aspnetcurso\Curso.Model\Curso.Model\obj\Debug\net6.0\Curso.Model.csproj.CoreCompileInputs.cache
+C:\Users\guimo\Desktop\aspnetcurso\Curso.Model\Curso.Model\obj\Debug\net6.0\Curso.Model.dll
+C:\Users\guimo\Desktop\aspnetcurso\Curso.Model\Curso.Model\obj\Debug\net6.0\refint\Curso.Model.dll
+C:\Users\guimo\Desktop\aspnetcurso\Curso.Model\Curso.Model\obj\Debug\net6.0\Curso.Model.pdb
+C:\Users\guimo\Desktop\aspnetcurso\Curso.Model\Curso.Model\obj\Debug\net6.0\Curso.Model.genruntimeconfig.cache
+C:\Users\guimo\Desktop\aspnetcurso\Curso.Model\Curso.Model\obj\Debug\net6.0\ref\Curso.Model.dll

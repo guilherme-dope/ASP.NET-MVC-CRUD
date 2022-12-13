@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso.Model", "Curso.Model\Curso.Model.csproj", "{3DC7392C-6790-41C2-B4FB-DE523EC3484D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.View Curso", "Web.View Curso\Web.View Curso.csproj", "{B33F8387-6CD6-459C-963F-538275A0387C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DC7392C-6790-41C2-B4FB-DE523EC3484D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC7392C-6790-41C2-B4FB-DE523EC3484D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC7392C-6790-41C2-B4FB-DE523EC3484D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC7392C-6790-41C2-B4FB-DE523EC3484D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B33F8387-6CD6-459C-963F-538275A0387C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33F8387-6CD6-459C-963F-538275A0387C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33F8387-6CD6-459C-963F-538275A0387C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33F8387-6CD6-459C-963F-538275A0387C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0295F35-048F-482A-856E-D7FEB32B665C}
+	EndGlobalSection
+EndGlobal
